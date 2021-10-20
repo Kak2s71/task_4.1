@@ -5,7 +5,7 @@ LICENSE: [MIT](./license.md)
 ![](./assets/git-logo.png)
 ---
 
-### Содержание:
+### Список основных команд:
 1. [git add](./add.md)
 2. [git archive](./archive.md)
 3. [git branch](./branch.md)
